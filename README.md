@@ -1,6 +1,5 @@
-My console output for for the jenkins multiagent running of JAVA springboot application 
-
-
+my console ouptput upon running my first Master slave CI/CD pipeline
+\
 Started by user DevOps Administrator
 [Pipeline] Start of Pipeline
 [Pipeline] node
