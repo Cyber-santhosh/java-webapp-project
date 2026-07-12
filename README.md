@@ -1,4 +1,4 @@
-my console ouptput upon running my first Master slave CI/CD pipeline
+my console ouptput upon running my first Master slave CI/CD pipeline.
 
 
 
