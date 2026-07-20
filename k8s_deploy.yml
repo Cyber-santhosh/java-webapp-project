@@ -29,3 +29,8 @@ metadata:
 spec:
   selector:
     app: santhosh-java-app
+  type: NodePort
+  ports:
+  - nodePorts: 31028
+    port: 8080
+    targetPort: 8080
