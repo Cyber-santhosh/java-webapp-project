@@ -18,10 +18,10 @@ spec:
        - name: santhosh-java
          image: santhosh-java-app-k8s:v1
          ports:
-         - containerPort:8080
+         - containerPort: 8080
 ---
 apiVersion: v1
-kind: service
+kind: Service
 metadata:
   name: santhosh-java-service
   labels:
